@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "<server-name>",
+      "runtimeExecutable": "<command>",
+      "runtimeArgs": ["<args>"],
+      "port": <port>
+    }
+  ]
+}
